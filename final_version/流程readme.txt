@@ -12,7 +12,7 @@ ARDUINO_ML資料夾內是在PC執行的code
 
 3. PC執行preprocess.c   
 把每筆rawdata(dataN.txt)用插值法固定為同一大小 ex.50
-之後應該會成為
+output什麼??
 
 4. PC執行training.c (也可以用esp32進行訓練 是用arduino_ML_training.ino)
 忘記了???? 這邊要在看懂 
